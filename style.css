@@ -1,0 +1,174 @@
+body{
+    font: 15px Arial, Helvetica,sans-serif;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+/* Bron: Alle foto's zijn van Vogue.com
+
+/* Header */
+header{
+    text-align: left;
+    color:black;
+    padding-top: 0px;
+    min-height: 70px;
+    
+}
+
+    /* navigatie */
+    nav{
+        text-align: left;
+        border-bottom: #e8491d 3px solid;
+        height: 50px;
+    }
+
+
+    img.headerimg{
+        float: left;
+        margin-left: 0px;
+
+    }
+
+    ul{
+        float: left;
+        margin-left: 130px;
+    }
+
+
+    a{
+        color: black;
+        margin-left: 20px;
+        font-family: Helvetica, Arial,sans-serif;
+        font-weight: bold;
+    }
+
+    a:link{
+         text-decoration: none;
+    }
+
+    a:hover{
+        text-decoration: underline;
+
+    }
+
+    img.gecentreerd{
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+
+    }
+
+
+    /* Global */
+
+    h1{
+        text-align: center;
+
+
+    }
+
+    p.textplaatje{
+        width: 230px;
+        font-size:12px;
+        margin-bottom: 10px;
+
+    }
+
+   
+
+    div.plaatjes{
+        margin-right: 35px;
+        float: left; 
+        width: auto;
+        height: auto;
+       
+
+
+    }
+
+    div.plaatjestwee{
+        margin-left: 35px;
+        float: left;
+        width: auto;
+        height: auto;
+
+    }
+
+
+
+   #newsletter{ /*zet hierin je zooi wat je in je section class="container" wilt zetten*/
+        height: auto;
+        width: auto;
+        margin-top: 30px;
+        margin-right: 200px;
+    }
+
+    #schuingedrukt{
+        text-align: center;
+        font-style: italic;
+    }
+
+    #vetgedrukt{
+        text-align: center;
+        font-weight: bold;
+        color: red;
+
+    }
+
+    div.container{
+        height: 300px;
+        width: 620px;
+        margin-left: 400px;
+        margin-right: 200px;
+    }
+
+    div.containertwee{
+        margin-top: 70px;
+        height: 300px;
+        width: 800px;
+        margin-left: 400px;
+        
+    }
+
+    div.containerdrie{
+        margin-top: 70px;
+        height: 300px;
+        width: 800px;
+        margin-left: 337px;
+    }
+    
+    div.containerdrie{
+        margin-top: 70px;
+        height: 300px;
+        width: 800px;
+        margin-left: 337px;
+    
+    }
+
+    div.cultureplaatje{
+        width: 230px;
+        font-size:12px;
+        margin-bottom: 0px;
+    
+    }
+
+    div.cultureplaatje{
+         width: 230px;
+        font-size:12px;
+        margin-bottom: 0px;
+    
+    }
+
+    div.cultureplaatjes{
+        width: 230px;
+        font-size:12px;
+        margin-bottom: 0px;
+
+    }
+    
+    div.cultureplaatjes{
+        width: 230px;
+        font-size:12px;
+        margin-bottom: 0px;
+
+    }
